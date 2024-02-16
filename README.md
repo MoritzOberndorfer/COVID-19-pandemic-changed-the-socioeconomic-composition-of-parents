@@ -1,7 +1,7 @@
 Hi,
 Thanks for your interest in our paper and the related code. 
 I appreciate that it is a lot of code and it might be difficult to navigate. I tried my best to describe what each chunck of code does next to the respective lines. 
-If you want to see the code used figures and table in the main manuscript, go to the file Code_figure_34567_table1_160224.do. 
+If you want to see the code used for figures and table in the main manuscript, go to the file Code_figure_34567_table1_160224.do. 
 If you want to see the code used for everything that is in our supplementary material, go to the file Code_supplement_16022024.do
 We could have reduced the number of code needed by some additional loops and macros for each country. However, we feel that this would have made it more difficult to follow our decisions for the analysis.
 
